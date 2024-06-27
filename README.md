@@ -1,7 +1,11 @@
 # [Lab Exercise] Simple Log Analysis with ELK Stack (Elasticsearch, Logstash, Kibana)
+![Blue Sand White Beach Simple Watercolor Etsy Shop Banner (9)](https://github.com/0xrajneesh/Log-Analysis-Projects-for-Beginners/assets/40385860/fa24f35a-9afe-4dc4-b24a-fd9b4c4b00b2)
+
 
 ## Introduction
 In this project, students will learn the basics of log analysis using the ELK Stack, a popular open-source suite for managing and analyzing log data. The ELK Stack consists of Elasticsearch (for storing and searching data), Logstash (for processing and ingesting data), and Kibana (for visualizing data). By the end of this project, students will be able to set up the ELK Stack, ingest log data, and create visualizations to analyze the data.
+
+**Level**: Beginner
 
 ## Pre-requisites
 - Basic understanding of log files and log management
